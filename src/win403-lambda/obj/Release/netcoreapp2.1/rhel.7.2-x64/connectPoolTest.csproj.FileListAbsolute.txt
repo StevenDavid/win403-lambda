@@ -1,0 +1,10 @@
+/home/ec2-user/connectPoolTest/src/connectPoolTest/obj/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.csprojAssemblyReference.cache
+/home/ec2-user/connectPoolTest/src/connectPoolTest/obj/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.AssemblyInfoInputs.cache
+/home/ec2-user/connectPoolTest/src/connectPoolTest/obj/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.AssemblyInfo.cs
+/home/ec2-user/connectPoolTest/src/connectPoolTest/bin/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.deps.json
+/home/ec2-user/connectPoolTest/src/connectPoolTest/bin/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.runtimeconfig.json
+/home/ec2-user/connectPoolTest/src/connectPoolTest/bin/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.runtimeconfig.dev.json
+/home/ec2-user/connectPoolTest/src/connectPoolTest/bin/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.dll
+/home/ec2-user/connectPoolTest/src/connectPoolTest/bin/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.pdb
+/home/ec2-user/connectPoolTest/src/connectPoolTest/obj/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.dll
+/home/ec2-user/connectPoolTest/src/connectPoolTest/obj/Release/netcoreapp2.1/rhel.7.2-x64/connectPoolTest.pdb

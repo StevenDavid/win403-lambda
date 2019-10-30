@@ -1,0 +1,11 @@
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/bin/Debug/netcoreapp2.1/win403lambda.deps.json
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/bin/Debug/netcoreapp2.1/win403lambda.runtimeconfig.json
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/bin/Debug/netcoreapp2.1/win403lambda.runtimeconfig.dev.json
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/bin/Debug/netcoreapp2.1/win403lambda.dll
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/bin/Debug/netcoreapp2.1/win403lambda.pdb
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/obj/Debug/netcoreapp2.1/win403lambda.csprojAssemblyReference.cache
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/obj/Debug/netcoreapp2.1/win403lambda.csproj.CoreCompileInputs.cache
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/obj/Debug/netcoreapp2.1/win403lambda.AssemblyInfoInputs.cache
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/obj/Debug/netcoreapp2.1/win403lambda.AssemblyInfo.cs
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/obj/Debug/netcoreapp2.1/win403lambda.dll
+/Users/sdsteve/Documents/Code/repos/win403-lambda/src/win403-lambda/obj/Debug/netcoreapp2.1/win403lambda.pdb
