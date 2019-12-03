@@ -20,8 +20,10 @@ namespace win403.Models
     public static string GetMSSQLConnectionString()
     {
       if (currentMSSQL_CS == "") {
-        string rawCS = GetSecret(SecretKey);
-        DB_CS currentCSObject = JsonConvert.DeserializeObject<DB_CS>(rawCS);
+        DB_CS currentCSObject = new DB_CS();
+        currentCSObject.host = "{host}";
+        currentCSObject.username = "admin";
+        currentCSObject.password = "{password}";
         currentMSSQL_CS = $"Data Source={currentCSObject.host};User ID={currentCSObject.username};Password={currentCSObject.password}";
       }
       return currentMSSQL_CS;
